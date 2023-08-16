@@ -17,11 +17,11 @@ This project is a simple application that uses Apache, PHP and PostgreSQL. The a
 ## Database Screenshot
 
 - Register Table
-![register](https://github.com/DevBarham/user-data/assets/62616273/7fbebc3e-6067-44a2-9230-eb436bc31fd5)
+![register_Screenshot from 2023-08-16 11-18-41](https://github.com/abdulmalik-devs/abdulmalik-devs/assets/62616273/b484e198-04a4-4eaf-8f59-6e0789b5c61d)
 
 
 - Profile Table
-![profile](https://github.com/DevBarham/user-data/assets/62616273/795b8c18-f4fc-46a3-8e8f-72909f029ade)
+![profile_Screenshot from 2023-08-16 11-17-16](https://github.com/abdulmalik-devs/abdulmalik-devs/assets/62616273/1eb55b65-8d99-4deb-8684-056616dc1049)
 
 
 # Setup
