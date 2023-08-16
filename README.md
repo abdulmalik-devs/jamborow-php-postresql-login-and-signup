@@ -9,6 +9,19 @@ This project is a simple application that uses Apache, PHP and PostgreSQL. The a
 3. Client data collection and storage
 4. Search function to retrieve client data
 
+## Project Demo
+
+
+## Database Screenshot
+
+- Register Table
+![register](https://github.com/DevBarham/user-data/assets/62616273/7fbebc3e-6067-44a2-9230-eb436bc31fd5)
+
+
+- Profile Table
+![profile](https://github.com/DevBarham/user-data/assets/62616273/795b8c18-f4fc-46a3-8e8f-72909f029ade)
+
+
 # Setup
 
 Before beginning, confirm that the following are installed on your machine:
